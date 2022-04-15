@@ -1,0 +1,13 @@
+{
+  "directory_for_train": "/home/pavel/landmarks_task/300W/train",
+  "faces_folder_for_test": "/home/pavel/landmarks_task/300W/test",
+  "predictor": "outputs/my_pred.dat",
+  "xml": "./outputs/300W_model.xml",
+  "predictor_output": "outputs/my_predictor_res_on_300W",
+  "create_data_val": true,
+  "train_model_val" : false,
+  "create_predictor_val" : false,
+  "orig_data_path": "/home/pavel/landmarks_task/300W/test",
+  "predictor_data_path": "outputs/my_predictor_res_on_300W",
+  "graph_output_path": "outputs/my_pred_300000w"
+}
